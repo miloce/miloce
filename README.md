@@ -5,7 +5,7 @@
 ![miloce's GitHub stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=miloce)
 
 ![Top Langs](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=miloce)
-
+![Metrics](/github-metrics.svg)
 <!--
 **miloce/miloce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
