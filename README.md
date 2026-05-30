@@ -2,9 +2,9 @@
 
 爱发电https://afdian.com/leaflet?slug=miloce
 
-<a href="https://github.com/miloce"><img align="center" src="[https://kayan-github-profile-projects-featu.vercel.app/api?username=miloce&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Miloce's github stats" /></a> <a href="https://github.com/miloce"><img align="center" src="[https://kayan-github-profile-projects-featu.vercel.app/api?username=miloce&layout=compact&theme=buefy&hide_border=true" /></a> 
+![miloce's GitHub stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=miloce)
 
-
+![Top Langs](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=miloce)
 
 <!--
 **miloce/miloce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
